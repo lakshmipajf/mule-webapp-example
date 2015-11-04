@@ -6,6 +6,6 @@ http://www.mulesoft.org/schema/mule/servlet http://www.mulesoft.org/schema/mule/
 
     <flow name="hello">
         <servlet:inbound-endpoint path="hello" />
-        <set-payload value="Hello World, this is Mule talking! :)" />
+        <set-payload value="Hello World, this is Mule talking! :) !" />
     </flow>
 </mule>
