@@ -17,4 +17,6 @@ It exists to address the following common issues:
 
 You can then browse http://localhost:8889/mule-war-demo
 
+## Good Luck
+
 **Copyright © 2015 David Dossot - MIT License**
